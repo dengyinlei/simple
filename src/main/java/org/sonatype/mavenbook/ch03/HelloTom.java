@@ -9,5 +9,7 @@ package org.sonatype.mavenbook.ch03;
  **/
 public class HelloTom {
 
-
+    public static void main(String[] args) {
+        System.out.println(1111);
+    }
 }
